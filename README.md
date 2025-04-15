@@ -36,7 +36,6 @@ Este repositorio contiene las notas, ejemplos prácticos y ejercicios desarrolla
 ## 🧾 Créditos
 
 - Curso oficial de **Microsoft Reactor**
-- Adaptación por [TuNombre]
 
 ---
 
