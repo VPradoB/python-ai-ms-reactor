@@ -1,0 +1,36 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Archivos de configuración de entorno
+.env
+*.env
+
+# Archivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Salidas de notebooks convertidos
+*.html
+*.pdf
+
+# Archivos de caché de Jupyter y otros temporales
+*.~nbconvert.ipynb
+*.bak
+*.swp
+.DS_Store
+
+# Carpeta de datos grandes o resultados generados
+data/
+outputs/
+
